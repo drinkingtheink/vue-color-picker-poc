@@ -61,7 +61,7 @@ export default {
 <style>
 section {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   margin-bottom: 3em;
 }
 
@@ -69,6 +69,7 @@ section {
   height: 20em;
   width: 30em;
   border: 5px solid rgba(0,0,0,0.2);
+  margin-left: 3em;
 }
 
 .vc-chrome {
